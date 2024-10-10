@@ -1,6 +1,3 @@
-# SQL with [TDI](https://www.linkedin.com/company/thedata-initiative-tdi/)
+# SQL Projects
 
-In this folder you will find all the SQL projects I did throughout my journey to learn about data analytics with [TDI](https://www.linkedin.com/company/thedata-initiative-tdi/). In each project, you can find approximately two files, one for the SQL QUERIES and the documentation for each project, and you can find more details about each week's task on my LinkedIn profile.
-
-## Contact me
-- If you have any questions, comments or suggestions, please feel free to [contact me](https://linktr.ee/kareem.shaaban).
+This repository is dedicated to showcasing all the SQL projects I’ve worked on during my data analytics learning journey. Each project represents a key step in developing my skills in querying, analyzing, and managing data using SQL. Through these projects, I have explored various techniques for extracting meaningful insights from datasets, optimizing queries for performance, and applying SQL in real-world scenarios. I will continue to update this repository as I further expand my knowledge and take on more challenging projects.
